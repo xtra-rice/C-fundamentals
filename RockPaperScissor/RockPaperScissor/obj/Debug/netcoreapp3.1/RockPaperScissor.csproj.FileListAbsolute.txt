@@ -1,0 +1,14 @@
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\bin\Debug\netcoreapp3.1\RockPaperScissor.exe
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\bin\Debug\netcoreapp3.1\RockPaperScissor.deps.json
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\bin\Debug\netcoreapp3.1\RockPaperScissor.runtimeconfig.json
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\bin\Debug\netcoreapp3.1\RockPaperScissor.runtimeconfig.dev.json
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\bin\Debug\netcoreapp3.1\RockPaperScissor.dll
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\bin\Debug\netcoreapp3.1\RockPaperScissor.pdb
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.csproj.AssemblyReference.cache
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.AssemblyInfoInputs.cache
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.AssemblyInfo.cs
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.dll
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.pdb
+C:\Users\Erice\Downloads\C#\RockPaperScissor\RockPaperScissor\obj\Debug\netcoreapp3.1\RockPaperScissor.genruntimeconfig.cache
